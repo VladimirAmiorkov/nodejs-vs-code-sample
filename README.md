@@ -17,5 +17,5 @@ $ code .
 - As the project usesd TypeScript, transpile the .ts files to JavaScript via the VS Code built-in task by pressing
 	- On Mac: `Cmd + Shift + B`
 	- On Window: `Ctrl + Shift + B`
-- All that is left is to run your first NodeJS "program", open the VS Code built-in terminal ``Ctrl + ` ``
+- All that is left is to run your first NodeJS "program", open the VS Code built-in terminal ``Ctrl + ` `` or press `F1` and write `toggle terminal`
 	- Run the command: `$ node app.js`, after that you should see `3 + 2 = 5` in the terminal 
